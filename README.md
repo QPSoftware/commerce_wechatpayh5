@@ -41,4 +41,6 @@ commerce_wechatpayh5 was created and is maintained by [Alexandre Tanyeres](https
 
 Developed by <strong><a href="https://qpsoftware.net/" class="twitter-follow-button" data-show-count="false">QPSOFTWARE</a></strong>, a web design agency based in Shanghai. If you need any help regarding the implementation of this module, feel free to contact us
 
-<strong><a href="https://www.facebook.com/QPSoftwareShanghai/">Facebook</a></strong> <strong><a href="https://www.linkedin.com/company/qpsoftware-limited/" >Linkedin</a></strong> ![--](/assets/IMG_12072018_160102_0.png)
+<strong><a href="https://www.facebook.com/QPSoftwareShanghai/">![--](/assets/fb.png) Facebook</a></strong> <strong><a href="https://www.linkedin.com/company/qpsoftware-limited/" >![--](/assets/linkedin.png) Linkedin</a></strong>
+
+![--](/assets/IMG_12072018_160102_0.png)
