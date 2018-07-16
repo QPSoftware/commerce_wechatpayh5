@@ -25,7 +25,7 @@ On the module page, click **configure** on the `Commerce Wechat Pay H5` line.
 
 To make your H5 peyment working you have to fill these 4 informations (_APPID, MCHID, KEY, APPSECRET_) about your professionnal WeChat account.
 
-You can find these informations on your [wechat backend](https://pay.weixin.qq.com/) account
+You can find these informations on your [Wechat backend](https://pay.weixin.qq.com/) account
 
 ## About
 
@@ -41,6 +41,6 @@ commerce_wechatpayh5 was created and is maintained by [Alexandre Tanyeres](https
 
 Developed by <strong><a href="https://qpsoftware.net/" class="twitter-follow-button" data-show-count="false">QPSOFTWARE</a></strong>, a web design agency based in Shanghai. If you need any help regarding the implementation of this module, feel free to contact us
 
-  <strong><a href="https://www.facebook.com/QPSoftwareShanghai/">![--](/assets/fb.png) Facebook</a></strong>  <strong><a href="https://www.linkedin.com/company/qpsoftware-limited/" >![--](/assets/linkedin.png)</a></strong>  <strong><a href="https://www.instagram.com/qpsoftware/" >![--](/assets/ig.png)</a></strong>
+  <strong><a href="https://www.facebook.com/QPSoftwareShanghai/">  ![--](/assets/fb.png)  </a></strong><strong><a href="https://www.linkedin.com/company/qpsoftware-limited/" >![--](/assets/linkedin.png)  </a></strong>  <strong><a href="https://www.instagram.com/qpsoftware/" >![--](/assets/ig.png)</a></strong>
 
 ![--](/assets/IMG_12072018_160102_0.png)
