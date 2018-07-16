@@ -40,3 +40,5 @@ _At your first use you can testing the module by checking the **dev mode** in th
 commerce_wechatpayh5 was created and is maintained by [Alexandre Tanyeres](https://github.com/a-tanyeres)
 
 Developed by <strong><a href="https://qpsoftware.net/" class="twitter-follow-button" data-show-count="false">QPSOFTWARE</a></strong>, a web design agency based in Shanghai. If you need any help regarding the implementation of this module, feel free to contact us
+
+<strong><a href="https://www.facebook.com/QPSoftwareShanghai/">Facebook</a></strong> <strong><a href="https://www.linkedin.com/company/qpsoftware-limited/" >Linkedin</a></strong> ![--](/assets/IMG_12072018_160102_0.png)
